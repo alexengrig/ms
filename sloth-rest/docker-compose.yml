@@ -1,5 +1,5 @@
 services:
   sloth-redis:
-    image: redis
+    image: "redis:alpine"
     ports:
-      - "6379:6378"
+      - "6379:6379"
