@@ -1,9 +1,9 @@
-package com.example.ms.sloth.rest.service;
+package dev.alexengrig.ms.sloth.rest.service;
 
-import com.example.ms.sloth.rest.entity.SlothEntity;
-import com.example.ms.sloth.rest.exception.SlothNotAwakeException;
-import com.example.ms.sloth.rest.exception.SlothNotFoundException;
-import com.example.ms.sloth.rest.repository.SlothRepository;
+import dev.alexengrig.ms.sloth.rest.entity.SlothEntity;
+import dev.alexengrig.ms.sloth.rest.exception.SlothNotAwakeException;
+import dev.alexengrig.ms.sloth.rest.exception.SlothNotFoundException;
+import dev.alexengrig.ms.sloth.rest.repository.SlothRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

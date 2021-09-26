@@ -1,6 +1,6 @@
-package com.example.ms.sloth.rest.controller;
+package dev.alexengrig.ms.sloth.rest.controller;
 
-import com.example.ms.sloth.rest.service.SlothService;
+import dev.alexengrig.ms.sloth.rest.service.SlothService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

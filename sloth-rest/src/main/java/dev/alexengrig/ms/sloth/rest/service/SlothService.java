@@ -1,6 +1,6 @@
-package com.example.ms.sloth.rest.service;
+package dev.alexengrig.ms.sloth.rest.service;
 
-import com.example.ms.sloth.rest.entity.SlothEntity;
+import dev.alexengrig.ms.sloth.rest.entity.SlothEntity;
 
 import java.time.LocalDateTime;
 import java.util.List;

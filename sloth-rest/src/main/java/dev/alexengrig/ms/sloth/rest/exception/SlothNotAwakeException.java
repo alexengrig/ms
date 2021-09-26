@@ -1,4 +1,4 @@
-package com.example.ms.sloth.rest.exception;
+package dev.alexengrig.ms.sloth.rest.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

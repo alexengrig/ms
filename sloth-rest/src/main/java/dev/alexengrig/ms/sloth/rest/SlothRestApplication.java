@@ -1,4 +1,4 @@
-package com.example.ms.sloth.rest;
+package dev.alexengrig.ms.sloth.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

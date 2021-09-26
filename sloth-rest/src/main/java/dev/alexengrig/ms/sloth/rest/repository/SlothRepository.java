@@ -1,6 +1,6 @@
-package com.example.ms.sloth.rest.repository;
+package dev.alexengrig.ms.sloth.rest.repository;
 
-import com.example.ms.sloth.rest.entity.SlothEntity;
+import dev.alexengrig.ms.sloth.rest.entity.SlothEntity;
 import org.springframework.data.repository.Repository;
 
 import java.util.List;

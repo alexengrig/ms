@@ -1,4 +1,4 @@
-package com.example.ms.sloth.rest.configuration.properties;
+package dev.alexengrig.ms.sloth.rest.configuration.properties;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

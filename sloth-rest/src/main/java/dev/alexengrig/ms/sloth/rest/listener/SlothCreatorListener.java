@@ -1,7 +1,7 @@
-package com.example.ms.sloth.rest.listener;
+package dev.alexengrig.ms.sloth.rest.listener;
 
-import com.example.ms.sloth.rest.configuration.properties.SlothRestConfigurationProperties;
-import com.example.ms.sloth.rest.service.SlothService;
+import dev.alexengrig.ms.sloth.rest.configuration.properties.SlothRestConfigurationProperties;
+import dev.alexengrig.ms.sloth.rest.service.SlothService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.ApplicationListener;

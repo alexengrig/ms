@@ -1,6 +1,6 @@
-package com.example.ms.sloth.rest.entity;
+package dev.alexengrig.ms.sloth.rest.entity;
 
-import com.example.ms.sloth.rest.configuration.RedisConfiguration;
+import dev.alexengrig.ms.sloth.rest.configuration.RedisConfiguration;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.With;

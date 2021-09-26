@@ -1,6 +1,6 @@
-package com.example.ms.sloth.rest.configuration;
+package dev.alexengrig.ms.sloth.rest.configuration;
 
-import com.example.ms.sloth.rest.configuration.properties.SlothRestConfigurationProperties;
+import dev.alexengrig.ms.sloth.rest.configuration.properties.SlothRestConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 

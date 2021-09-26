@@ -1,4 +1,4 @@
-package com.example.ms.sloth.rest;
+package dev.alexengrig.ms.sloth.rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

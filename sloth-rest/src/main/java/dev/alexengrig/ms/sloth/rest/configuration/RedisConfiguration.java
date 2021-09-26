@@ -1,4 +1,4 @@
-package com.example.ms.sloth.rest.configuration;
+package dev.alexengrig.ms.sloth.rest.configuration;
 
 public class RedisConfiguration {
 
